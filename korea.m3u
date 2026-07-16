@@ -1,24 +1,26 @@
 #EXTM3U
 #EXTINF:-1,KBS1
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs1&.m3u8
 #EXTINF:-1,KBS2
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs2&.m3u8
 #EXTINF:-1,SBS
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs&.m3u8
 #EXTINF:-1,MBC
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbc
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc&.m3u8
 #EXTINF:-1,KBSWorld
-http://koreatv.dothome.co.kr/kbsworld.php
+http://koreatv.dothome.co.kr/kbsworld.php?.m3u8
 #EXTINF:-1,KBSStory
-http://koreatv.dothome.co.kr/kbsstory.php
+http://koreatv.dothome.co.kr/kbsstory.php?.m3u8
 #EXTINF:-1,KBSLife
-http://koreatv.dothome.co.kr/kbslife.php
+http://koreatv.dothome.co.kr/kbslife.php?.m3u8
 #EXTINF:-1,KBSDrama
-http://koreatv.dothome.co.kr/kbsdrama.php
+http://koreatv.dothome.co.kr/kbsdrama.php?.m3u8
 #EXTINF:-1,KBSKids
-http://koreatv.dothome.co.kr/kbskids.php
+http://koreatv.dothome.co.kr/kbskids.php?.m3u8
 #EXTINF:-1,KBSJoy
-http://koreatv.dothome.co.kr/kbsjoy.php
+http://koreatv.dothome.co.kr/kbsjoy.php?.m3u8
+
+# === [경고] 아래 티빙 계열 주소들은 토큰 만료로 인해 수 시간 내에 재생이 안 될 수 있습니다 ===
 #EXTINF:-1,연합뉴스
 https://tving-live-o2-xcdn.tving.com/o2/v1/019dd8deb9f5153d7865157cdbfbd6/019dd8df3d75153d7865157cdbfbd9/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQyMzEyMTcsInBhdGgiOiIvbzIifQ.WlT5jVvewyoEW-UrIxfyPqxYI70f4_OqqomC5jamgW4
 #EXTINF:-1,KBS뉴스24
@@ -54,7 +56,7 @@ https://tving-live-o2-skcdn.tving.com/o2/v1/019d6bc0c1ac153d786553381d0e9/019d6b
 #EXTINF:-1,MBN
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d8a6c2db1153d786553381d0f4/019dd8e5a2ec1eb80e7925af014fc1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQyMzExMzMsInBhdGgiOiIvbzIifQ.-bLGBIYYGpfiz24-UW26FjqQAk1jRqGg0Yz6OX-k0qA
 #EXTINF:-1,MBN플러스
-https://tving-live-o2-ktcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MjMxMTUwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=OO5TUCHBjaNVbO-QGm~oc-a8dsmC6KGmtgRKHZeI3P2NLmaTCW1IqNBU72MOlDJhZrQ99lpBWH06tknf5g-GnDp-rsITIumsdiIsZ7JjA9CeG8YJbG3aMaCYxPXnL~fAYy09k0gj7XXg-hqSQ4nIENZflDUFdggI422ALNQvhqp~~PRH658QBGCLLdjMqWT3z~PMrITpRsait7pjvaSuC9mw3iIlknrP5GCHjc01dxecnKtOAVbvIMGg5KVCoUZSMPoZS4G29I8d7aJI5Jdg3fzPwlwvbAEowHriVPhlk~runhq~7vwpmT5yZsDxwq3ElQ0IM-oQgCr6mzKyVemiqw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+https://tving-live-o2-ktcdn.tving.com/o2/v1/019db8dc792a1eb80e7942932b5c1/019dd8e25eab153d7865157cdbfbda/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLWt0Y2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MjMxMTVwfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=OO5TUCHBjaNVbO-QGm~oc-a8dsmC6KGmtgRKHZeI3P2NLmaTCW1IqNBU72MOlDJhZrQ99lpBWH06tknf5g-GnDp-rsITIumsdiIsZ7JjA9CeG8YJbG3aMaCYxPXnL~fAYy09k0gj7XXg-hqSQ4nIENZflDUFdggI422ALNQvhqp~~PRH658QBGCLLdjMqWT3z~PMrITpRsait7pjvaSuC9mw3iIlknrP5GCHjc01dxecnKtOAVbvIMGg5KVCoUZSMPoZS4G29I8d7aJI5Jdg3fzPwlwvbAEowHriVPhlk~runhq~7vwpmT5yZsDxwq3ElQ0IM-oQgCr6mzKyVemiqw__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
 #EXTINF:-1,MBN뉴스
 https://tving-live-o2-xcdn.tving.com/o2/v1/019b8ccb7875153d78653848a01248/019b8cebaab8153d78653848a0124b/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQyMzExNjYsInBhdGgiOiIvbzIifQ.PXZkcJnTZIysOoCHdx9VGcIeRrlVTeRTasW4vGUR-p0
 #EXTINF:-1,MNET
@@ -79,6 +81,8 @@ https://tving-live-o2-xcdn.tving.com/o2/v1/019ed3e5e210153d78653cb4bf7bd9/019ed3
 https://tving-live-o2-xcdn.tving.com/o2/v1/019d668d94731eb80e796d9bd9cae/019d668e57a61eb80e796d9bd9cb1/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0dmluZy5jb20iLCJleHAiOjE3ODQyMzEzMDAsInBhdGgiOiIvbzIifQ.LbsjbZOqXGr01Slq9keIZkm3maAXyydQ2bhnphAjFx0
 #EXTINF:-1,LIFETIME
 https://tving-live-o2-skcdn.tving.com/o2/v1/019d668fbfde153d786553381d0db/019d669072be153d786553381d0de/playlist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly90dmluZy1saXZlLW8yLXNrY2RuLnR2aW5nLmNvbS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzg0MjMxNDM1fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9fX1dfQ__&Signature=YnWRCFh2yw1ucF460E2VPaUdW8R8K~PeVjaIaq8c0BLrq6QeVClq2u1wBHkfJBfkH2eWVys8oEz2jTIr6qJsuE8K1Aby2ZmWr70TsWVpMmU9IAP3QeYszWV6ufapohnCS6o15K739hgm75DlT8Wjz5Ztb6luAXQ-UK9q~jigPebO9noCXgAVEz5EYQt2QJr5VE~tCVdX2HRZ0ImP2AM88jjalNKGAz04~akMzD1E-bQ15BHcL9wvQM91HU-mzgCas1xgnufZT-0t~PuuLk5zHDnfpT2qvuhjlscqp4XUOcoUPVCI307bjQbqXOxRdBcSf6nodH0i7nj4CipjHkXTow__&Key-Pair-Id=APKAIXCIJCFRGOUEZDWA
+
+# === [안전] 다음 티스토리/카카오TV(테스트) 채널들은 주소가 잘 유지됩니다 ===
 #EXTINF:-1,맛있는 녀석들
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_235_DCEF4BAE.m3u8
 #EXTINF:-1,나는 자연인이다
@@ -88,96 +92,96 @@ https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_261_3638405F.m3u8
 #EXTINF:-1,백반기행
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_269_96C359FF.m3u8
 #EXTINF:-1,TV조선-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvchosun&.m3u8
 #EXTINF:-1,MBN-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbn
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbn&.m3u8
 #EXTINF:-1,TVN-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn&.m3u8
 #EXTINF:-1,채널A-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=channela
+http://124.222.153.240/kakaotv/get_channel.php?channel=channela&.m3u8
 #EXTINF:-1,YTN-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ytn
+http://124.222.153.240/kakaotv/get_channel.php?channel=ytn&.m3u8
 #EXTINF:-1,OCN-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn&.m3u8
 #EXTINF:-1,EBS1-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ebs1
+http://124.222.153.240/kakaotv/get_channel.php?channel=ebs1&.m3u8
 #EXTINF:-1,KBS N 스포츠-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=kbs_n_sports&.m3u8
 #EXTINF:-1,MBC스포츠-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_sports&.m3u8
 #EXTINF:-1,MBC ON-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_on
+http://124.222.153.240/kakaotv/get_channel.php?channel=mbc_on&.m3u8
 #EXTINF:-1,SBS스포츠-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_sports&.m3u8
 #EXTINF:-1,SBS골프-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_golf&.m3u8
 #EXTINF:-1,J 골프-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf
+http://124.222.153.240/kakaotv/get_channel.php?channel=j_golf&.m3u8
 #EXTINF:-1,SPOTV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv&.m3u8
 #EXTINF:-1,SPOTV 2-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv2&.m3u8
 #EXTINF:-1,ENA-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ena
+http://124.222.153.240/kakaotv/get_channel.php?channel=ena&.m3u8
 #EXTINF:-1,iHQ-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ihq
+http://124.222.153.240/kakaotv/get_channel.php?channel=ihq&.m3u8
 #EXTINF:-1,TVN Sports-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_sports&.m3u8
 #EXTINF:-1,스카이스포츠-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports
+http://124.222.153.240/kakaotv/get_channel.php?channel=sky_sports&.m3u8
 #EXTINF:-1,tvN Show-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show
+http://124.222.153.240/kakaotv/get_channel.php?channel=tvn_show&.m3u8
 #EXTINF:-1,OCN Movies 2-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies2&.m3u8
 #EXTINF:-1,OCN Movies-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies
+http://124.222.153.240/kakaotv/get_channel.php?channel=ocn_movies&.m3u8
 #EXTINF:-1,중화 TV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=chunghwa_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=chunghwa_tv&.m3u8
 #EXTINF:-1,낚시 TV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=fishing_tv&.m3u8
 #EXTINF:-1,Channel E-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e
+http://124.222.153.240/kakaotv/get_channel.php?channel=channel_e&.m3u8
 #EXTINF:-1,바둑TV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=baduk_tv&.m3u8
 #EXTINF:-1,빌리어즈TV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=billiards_tv&.m3u8
 #EXTINF:-1,현대홈쇼핑-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=hyundai_homeshopping
+http://124.222.153.240/kakaotv/get_channel.php?channel=hyundai_homeshopping&.m3u8
 #EXTINF:-1,Spotv Golf And Health-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_golf_health&.m3u8
 #EXTINF:-1,가톨릭 평화방송-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=catholic_peace_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=catholic_peace_tv&.m3u8
 #EXTINF:-1,불교방송-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=buddhist_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=buddhist_tv&.m3u8
 #EXTINF:-1,JTBC 3-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3
+http://124.222.153.240/kakaotv/get_channel.php?channel=jtbc3&.m3u8
 #EXTINF:-1,EBS 2-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=ebs2
+http://124.222.153.240/kakaotv/get_channel.php?channel=ebs2&.m3u8
 #EXTINF:-1,뽀요 TV-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=pororo_tv&.m3u8
 #EXTINF:-1,투니버스-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse
+http://124.222.153.240/kakaotv/get_channel.php?channel=tooniverse&.m3u8
 #EXTINF:-1,CNN-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=cnn
+http://124.222.153.240/kakaotv/get_channel.php?channel=cnn&.m3u8
 #EXTINF:-1,BBC-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=bbc
+http://124.222.153.240/kakaotv/get_channel.php?channel=bbc&.m3u8
 #EXTINF:-1,브레인티비-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=brain_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=brain_tv&.m3u8
 #EXTINF:-1,Nat Geo Wild-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild
+http://124.222.153.240/kakaotv/get_channel.php?channel=nat_geo_wild&.m3u8
 #EXTINF:-1,HISTORY-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=history
+http://124.222.153.240/kakaotv/get_channel.php?channel=history&.m3u8
 #EXTINF:-1,iNET-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=inet
+http://124.222.153.240/kakaotv/get_channel.php?channel=inet&.m3u8
 #EXTINF:-1,어린이티비-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=kids_tv
+http://124.222.153.240/kakaotv/get_channel.php?channel=kids_tv&.m3u8
 #EXTINF:-1,NHK World-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world
+http://124.222.153.240/kakaotv/get_channel.php?channel=nhk_world&.m3u8
 #EXTINF:-1,SPOTV Prime-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime&.m3u8
 #EXTINF:-1,SPOTV Prime 2-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime2&.m3u8
 #EXTINF:-1,SPOTV Prime 1-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1
+http://124.222.153.240/kakaotv/get_channel.php?channel=spotv_prime1&.m3u8
 #EXTINF:-1,SBS PLUS-테스트
-http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus
+http://124.222.153.240/kakaotv/get_channel.php?channel=sbs_plus&.m3u8
